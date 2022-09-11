@@ -1,4 +1,5 @@
-###### <img src='https://github.com/ZackAtama/python_basics/blob/dev/assets/icons/link.png' alt='Uganda Flag' height='15'> Quick Links : [Python Basics](https://github.com/ZackAtama/python_basics) | [PIP Installation](https://github.com/ZackAtama/python_basics/pip) | [APIs](https://github.com/ZackAtama/python_basics/apis)
+
+**<img src='https://github.com/ZackAtama/python_basics/blob/dev/assets/icons/link.png' alt='Uganda Flag' height='20'> Quick Links** : [Python Basics](https://github.com/ZackAtama/python_basics) | [PIP Installation](https://github.com/ZackAtama/python_basics/pip) | [APIs](https://github.com/ZackAtama/python_basics/apis)
 ---
 
 ### Virtual Environments (python)
