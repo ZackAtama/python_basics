@@ -22,7 +22,7 @@ The definition of a virtual environment in python takes on many forms, below are
 ### Using PyCharm
 #### Step 1
 Press **Ctrl+Alt+S** to open the project **Settings** and go to Project: **project_name** | Python Interpreter. Click the **Add Interpreter** link, then on **Add Local Interpreter**.
-![Add Interpreter](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_0.jpg)
+![](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_0.jpg)
 
 #### Step 2
 Make sure the following are set by default:
@@ -30,11 +30,11 @@ Make sure the following are set by default:
  - Unless you have an existing virtual environment, use **New** for environment.
  - Pycharm will create a virtual environment folder called **env**, this can be edited. Click **OK** for both windows and let Pycharm create the virtual environment.
  
- ![Create Virtual Environment](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_1.jpg)
+ ![](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_1.jpg)
 
 #### Step 3
 Now the packages section of your virtual environment has some packages installed by default. You can now add any package by clicking on the plus icon and search for a package.
-![Create Virtual Environment](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_2.jpg)
+![](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_2.jpg)
 
 **Sources:** [Python Docs](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments) | [JetBrains](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html#python_create_virtual_env)
 
