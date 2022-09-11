@@ -8,7 +8,7 @@ The definition of a virtual environment in python takes on many forms, below are
 - A virtual environment in python is a folder that exists usually in a project folder, and it contains python packages/libraries specific to the project.
 
 ### Installation, Configuration and Activation
-#### Using the Command Line/Terminal
+### Using the Command Line/Terminal
 #### Linux/Mac
 1. Install the virtual environment package: `sudo apt-get install python3.10-venv`.
 2. Create a virtual environment called **env**: `python -m venv env`.
@@ -19,7 +19,7 @@ The definition of a virtual environment in python takes on many forms, below are
 2. Create a virtual environment called **env**: `python -m venv env`.
 3. Activate the virtual environment: `.\env\Scripts\activate`.
 
-#### Using PyCharm
+### Using PyCharm
 #### Step 1
 Press **Ctrl+Alt+S** to open the project **Settings** and go to Project: **project_name** | Python Interpreter. Click the **Add Interpreter** link, then on **Add Local Interpreter**.
 ![Add Interpreter](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_0.jpg)
