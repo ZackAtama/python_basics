@@ -41,3 +41,6 @@ Press **Ctrl+Alt+S** to open the project **Settings** and go to Project: **proje
 - [Python Basics](https://github.com/ZackAtama/python_basics/tree/dev/python_basics)
 - Virtual Environment
 - [Packages and PIP](https://github.com/ZackAtama/python_basics/tree/dev/pip)
+- [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions)
+- [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes)
+- [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
