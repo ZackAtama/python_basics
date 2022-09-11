@@ -9,22 +9,22 @@ The definition of a virtual environment in python takes on many forms, below are
 
 ### Installation, Configuration and Activation
 #### Using the Command Line/Terminal
-##### For Linux/Mac
+#### Linux/Mac
 1. Install the virtual environment package: `sudo apt-get install python3.10-venv`.
 2. Create a virtual environment called **env**: `python -m venv env`.
 3. Activate the virtual environment: `source env/bin/activate`.
 
-##### For Windows 7/8/10/11
+#### Windows 7/8/10/11
 1. Install the virtual environment package: `python -m pip install --user virtualenv`.
 2. Create a virtual environment called **env**: `python -m venv env`.
 3. Activate the virtual environment: `.\env\Scripts\activate`.
 
 ### Using PyCharm
-##### Step 1
+#### Step 1
 Press **Ctrl+Alt+S** to open the project **Settings** and go to Project: **project_name** | Python Interpreter. Click the **Add Interpreter** link, then on **Add Local Interpreter**.
 ![Add Interpreter](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_0.jpg)
 
-##### Step 2
+#### Step 2
 Make sure the following are set by default:
  - The interpreter should be **Virtualenv Environment**.
  - Unless you have an existing virtual environment, use **New** for environment.
@@ -32,7 +32,7 @@ Make sure the following are set by default:
  
  ![Create Virtual Environment](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_1.jpg)
 
-##### Step 3
+#### Step 3
 Now the packages section of your virtual environment has some packages installed by default. You can now add any package by clicking on the plus icon and search for a package.
 ![Create Virtual Environment](https://github.com/ZackAtama/python_basics/blob/dev/assets/screenshots/img_2.jpg)
 
