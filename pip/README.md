@@ -1,7 +1,7 @@
 
-[Python Basics](https://github.com/ZackAtama/python_basics) | **Virtual Environment** | [PIP and Packages](https://github.com/ZackAtama/python_basics/tree/dev/pip) | [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions) | [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes) |  [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
+[Python Basics](https://github.com/ZackAtama/python_basics) | [Virtual Environment](https://github.com/ZackAtama/python_basics/tree/dev/virtual_env) | **PIP and Packages** | [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions) | [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes) |  [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
 
-# Virtual Environment
+# PIP
 ### What is a virtual environment?
 The definition of a virtual environment in python takes on many forms, below are a couple of definitions that seem accurate enough.
 - A virtual environment, also know as <code>virtualenv</code>, is a self-contained directory tree that contains a Python installation for a particular version of Python, plus a number of additional packages. Source: 
@@ -40,8 +40,8 @@ Now the packages section of your virtual environment has some packages installed
 
 ### Other Related Docs
 - [Python Basics](https://github.com/ZackAtama/python_basics/tree/dev/python_basics)
-- Virtual Environment
-- [PIP and Packages](https://github.com/ZackAtama/python_basics/tree/dev/pip)
+- [Virtual Environment](https://github.com/ZackAtama/python_basics/tree/dev/virtual_env)
+- **PIP and Packages**
 - [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions)
 - [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes)
 - [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
