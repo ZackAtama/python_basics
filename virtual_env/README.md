@@ -1,5 +1,5 @@
 
-[Python Basics](https://github.com/ZackAtama/python_basics) | **Virtual Environment** | [Packages and PIP](https://github.com/ZackAtama/python_basics/tree/dev/pip) | [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions) | [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes) |  [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
+[Python Basics](https://github.com/ZackAtama/python_basics) | **Virtual Environment** | [PIP and Packages](https://github.com/ZackAtama/python_basics/tree/dev/pip) | [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions) | [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes) |  [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
 
 # Virtual Environment
 ### What is a virtual environment?
@@ -41,7 +41,7 @@ Now the packages section of your virtual environment has some packages installed
 ### Other Related Docs
 - [Python Basics](https://github.com/ZackAtama/python_basics/tree/dev/python_basics)
 - Virtual Environment
-- [Packages and PIP](https://github.com/ZackAtama/python_basics/tree/dev/pip)
+- [PIP and Packages](https://github.com/ZackAtama/python_basics/tree/dev/pip)
 - [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions)
 - [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes)
 - [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
