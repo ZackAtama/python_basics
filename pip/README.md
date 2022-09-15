@@ -12,7 +12,21 @@ A package contains all the files you need for a **module**.
 ### What is a Module?
 A module is a Python code **library** you can include in your project.
 
-### Installing packages using [``pip``]
+### Installing Packages using PIP
+#### Using the Command Line/Terminal
+#### Linux | MacOS
+1. Make sure you have a version of pip installed: `python3 -m pip --version`
+2. Installing a package using pip: `python3 -m pip install "package_name"`
+3. Upgrading a package: `python3 -m pip install --upgrade package_name`
+4. Using the package, depending on it's documentation: `from package_name import module_from_package`
+
+#### Windows (7/8/10/11)
+1. Make sure you have a version of pip installed: `py -m pip --version`
+2. Installing a package using pip: `py -m pip install "package_name"`
+3. Upgrading a package: `py -m pip install --upgrade package_name`
+4. Using the package, depending on it's documentation: `from package_name import module_from_package`
+
+#### Using PyCharm
 
 
 **Sources:** [Python Docs](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments) | [JetBrains](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html#python_create_virtual_env)
