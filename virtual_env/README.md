@@ -48,4 +48,4 @@ Now the packages section of your virtual environment has some packages installed
 - [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
 
 ---
-<p align="right">[![](https://img.shields.io/badge/Author-Zack%20Atama-important)]](https://github.com/ZackAtama)</p>
+<p align="right">[<img src="https://img.shields.io/badge/Author-Zack%20Atama-important"/>](https://github.com/ZackAtama)</p>
