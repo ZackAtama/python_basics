@@ -26,4 +26,4 @@ A module is a Python code **library** you can include in your project.
 - [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
 
 ---
-<p align="right">[![](https://img.shields.io/badge/Author-Zack%20Atama-important)](https://github.com/ZackAtama)</p>
+<p align="right">[![](https://img.shields.io/badge/Author-Zack%20Atama-important)]](https://github.com/ZackAtama)</p>
