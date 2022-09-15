@@ -1,4 +1,4 @@
-## [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) | [![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
+## [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
 
 [Python Basics](https://github.com/ZackAtama/python_basics) | **Virtual Environment** | [PIP and Packages](https://github.com/ZackAtama/python_basics/tree/dev/pip) | [Functions](https://github.com/ZackAtama/python_basics/tree/dev/functions) | [Classes](https://github.com/ZackAtama/python_basics/tree/dev/classes) |  [APIs](https://github.com/ZackAtama/python_basics/tree/dev/apis)
 
@@ -10,12 +10,12 @@ The definition of a virtual environment in python takes on many forms, below are
 
 ### Installation, Configuration and Activation
 ### Using the Command Line/Terminal
-#### [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) | [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+#### Linux | MacOS
 1. Install the virtual environment package: `sudo apt-get install python3.10-venv`.
 2. Create a virtual environment called **env**: `python -m venv env`.
 3. Activate the virtual environment: `source env/bin/activate`.
 
-#### [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+#### Windows (7/8/10/11)
 1. Install the virtual environment package: `python -m pip install --user virtualenv`.
 2. Create a virtual environment called **env**: `python -m venv env`.
 3. Activate the virtual environment: `.\env\Scripts\activate`.
