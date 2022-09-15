@@ -9,12 +9,12 @@ The definition of a virtual environment in python takes on many forms, below are
 
 ### Installation, Configuration and Activation
 ### Using the Command Line/Terminal
-#### Linux/Mac
+#### [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) (Ubuntu) | [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) (Catalina and Later)
 1. Install the virtual environment package: `sudo apt-get install python3.10-venv`.
 2. Create a virtual environment called **env**: `python -m venv env`.
 3. Activate the virtual environment: `source env/bin/activate`.
 
-#### Windows 7/8/10/11
+#### [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) (7/8/10/11)
 1. Install the virtual environment package: `python -m pip install --user virtualenv`.
 2. Create a virtual environment called **env**: `python -m venv env`.
 3. Activate the virtual environment: `.\env\Scripts\activate`.
