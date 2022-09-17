@@ -41,3 +41,4 @@ A module is a Python code **library** you can include in your project.
 
 ---
 [<p align="right"><img src="https://img.shields.io/badge/Author-Zack%20Atama-important"/></p>](https://github.com/ZackAtama)
+[<p align="right">![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)</p>](https://www.digitalocean.com/?refcode=d497b44189bf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
