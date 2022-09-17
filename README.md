@@ -7,3 +7,4 @@ This is a source repository to help developers find guidance or solutions to pyt
 
 ---
 [<p align="right"><img src="https://img.shields.io/badge/Author-Zack%20Atama-important"/></p>](https://github.com/ZackAtama)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=d497b44189bf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
